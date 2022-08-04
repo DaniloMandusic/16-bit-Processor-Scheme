@@ -8,9 +8,6 @@
 
 <br>
 
-<img src = "example1.png" height = 500>
-<img src = "example2.png" height = 500>
-<img src = "example3.png" height = 500>
-
-### Enjoy
-### Danilo Mandusic
+<img src = "Examples/example1.png" height = 500>
+<img src = "Examples/example2.png" height = 500>
+<img src = "Examples/example3.png" height = 500>
